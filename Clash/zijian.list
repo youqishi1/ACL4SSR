@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,alimei-sub.alibaba.com
 DOMAIN-SUFFIX,bdc.alibabachengdun.com
 DOMAIN-SUFFIX,lydaas.com
 DOMAIN-SUFFIX,wostatic.cn
+
 IP-CIDR,140.205.143.0/24,no-resolve
 IP-CIDR,203.107.1.0/24,no-resolve
 IP-CIDR,140.205.198.0/24,no-resolve
