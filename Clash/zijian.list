@@ -1,5 +1,5 @@
 # 内容：SteamCN
-# 数量：1条
+# 数量：100条
 DOMAIN-SUFFIX,www.msn.cn
 DOMAIN-SUFFIX,echotik.live
 DOMAIN-SUFFIX,likefont.com
@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,mmstat.com
+# 数量：100条
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,alibabausercontent.com
